@@ -16,4 +16,6 @@ Here are some ideas to get you started:
 -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nati-m-afw&show_icons=true&theme=tokyonight)
 
+<!--
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=nati-m-afw&langs_count=15&theme=tokyonight&hide=php)]()
+-->
